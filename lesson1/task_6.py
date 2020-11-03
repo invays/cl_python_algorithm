@@ -1,6 +1,7 @@
+# https://drive.google.com/file/d/1Do8xPRL1338amWzG-j4NTaP0LeJQV0YE/view?usp=sharing
 
 user_inp = int(input("Порядковый номер в алфавите: "))
-"abcdefghijklmnopqrstuvwxyz"
+
 if user_inp == 1:
     print("a")
 elif user_inp == 2:
